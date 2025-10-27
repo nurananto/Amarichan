@@ -129,7 +129,7 @@
       "title": "Chapter 6.1",
       "folder": "6.1",
       "pages": 11,
-      "views": 0,
+      "views": 10,
       "uploadDate": "2025-10-26",
       "locked": false
     },
@@ -142,5 +142,6 @@
       "locked": true
     }
   },
-  "lastUpdated": "2025-10-26T01:24:20.305Z"
+  "lastUpdated": "2025-10-27T01:26:04.815Z",
+  "lastChapterUpdate": "2025-10-26T01:24:20.305Z"
 }
