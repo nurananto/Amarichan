@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 137,
+    "views": 149,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -46,7 +46,7 @@
       "totalPages": 110,
       "pages": 110,
       "locked": false,
-      "views": 10
+      "views": 13
     },
     "1.5": {
       "title": "Chapter 1.5",
@@ -66,7 +66,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 8
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -76,7 +76,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 0
+      "views": 8
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -86,7 +86,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 0
+      "views": 7
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -96,7 +96,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 0
+      "views": 7
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -106,7 +106,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 0
+      "views": 7
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -116,7 +116,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 0
+      "views": 8
     },
     "4.5": {
       "title": "Chapter 4.5",
@@ -146,7 +146,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 10
+      "views": 12
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -156,7 +156,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 43
+      "views": 48
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -166,9 +166,9 @@
       "totalPages": 0,
       "pages": 0,
       "locked": true,
-      "views": 11
+      "views": 16
     }
   },
-  "lastUpdated": "2025-11-07T09:13:30+07:00",
-  "lastChapterUpdate": "2025-10-21T17:51:04+07:00"
+  "lastUpdated": "2025-11-08T09:01:34+07:00",
+  "lastChapterUpdate": "2025-11-07T09:13:30+07:00"
 }
