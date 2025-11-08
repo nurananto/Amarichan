@@ -23,9 +23,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/Amarichan/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "6.2"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
     "0": {
@@ -157,18 +155,8 @@
       "pages": 11,
       "locked": false,
       "views": 48
-    },
-    "6.2": {
-      "title": "Chapter 6.2",
-      "chapter": 6.2,
-      "folder": "6.2",
-      "uploadDate": "2025-11-07T09:13:30+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 16
     }
   },
-  "lastUpdated": "2025-11-08T09:01:34+07:00",
-  "lastChapterUpdate": "2025-11-07T09:13:30+07:00"
+  "lastUpdated": "2025-11-08T21:05:45+07:00",
+  "lastChapterUpdate": "2025-10-21T17:51:04+07:00"
 }
