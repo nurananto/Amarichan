@@ -2,7 +2,7 @@
   "manga": {
     "title": "Kanojo ni Shitai Joshi Ichii, no Tonari de Mitsuketa Amari-chan",
     "alternativeTitle": "彼女にしたい女子一位、の隣で見つけたあまりちゃん",
-    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/amarichan-6ffed041-aa59-49e2-b79f-dac40ac0ef53.jpg",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/amarichan-6ffed041-aa59-49e2-b79f-dac40ac0ef53.webp",
     "description": "'Kisah Romantis Komedi Dimulai dari Persahabatan dengan Heroine Tersembunyi yang Hanya Aku Tahu.'Dia anak baik, tapi terlalu biasa saja… Itulah Fukusuke Mogi, yang diam-diam mengagumi Kureha Yua, gadis tercantik di kelas.Namun, orang yang digosipkan bersama Yui adalah sahabatnya, Fujisaki Yuusei, bintang tim basket. Saat merasa terpuruk karena menjadi 'karakter figuran' yang tenggelam di balik sahabatnya, Fukusuke menemukan seorang gadis super imut lainnya, yang tersembunyi di balik bayang-bayang Yua dan jarang diperhatikan—Usuha Amari!'A-Apakah… kamu mau jadi temanku?'Berbagi nasib yang serupa, Fukusuke dan Amari memutuskan untuk mulai berlatih 'menjadi orang biasa' bersama—kira-kira apa yang akan terjadi selanjutnya?",
     "author": "Yuuji Yuuji",
     "artist": "Nemaki Neruzo",
@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 354,
+    "views": 372,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -34,7 +34,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 21
+      "views": 23
     },
     "1": {
       "title": "Chapter 1",
@@ -44,7 +44,7 @@
       "totalPages": 110,
       "pages": 110,
       "locked": false,
-      "views": 20
+      "views": 21
     },
     "1.5": {
       "title": "Chapter 1.5",
@@ -124,7 +124,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 16
+      "views": 17
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -134,7 +134,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 15
+      "views": 17
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -144,7 +144,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 19
+      "views": 21
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -154,7 +154,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 79
+      "views": 83
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -164,9 +164,9 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 75
+      "views": 85
     }
   },
-  "lastUpdated": "2025-11-18T09:14:39+07:00",
+  "lastUpdated": "2025-11-19T00:40:46+07:00",
   "lastChapterUpdate": "2025-11-14T15:02:17+07:00"
 }
