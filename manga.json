@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 399,
+    "views": 402,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -34,7 +34,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 23
+      "views": 26
     },
     "1": {
       "title": "Chapter 1",
@@ -44,7 +44,7 @@
       "totalPages": 110,
       "pages": 110,
       "locked": false,
-      "views": 22
+      "views": 23
     },
     "1.5": {
       "title": "Chapter 1.5",
@@ -54,7 +54,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 15
+      "views": 18
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -167,6 +167,6 @@
       "views": 95
     }
   },
-  "lastUpdated": "2025-11-21T09:13:30+07:00",
+  "lastUpdated": "2025-11-21T19:34:01+07:00",
   "lastChapterUpdate": "2025-11-14T15:02:17+07:00"
 }
