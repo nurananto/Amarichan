@@ -56,9 +56,9 @@
       "lastUpdate": "2025-11-27T23:08:31+07:00"
     },
     "5.2": {
-      "pendingViews": 1,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-29T02:02:14.585Z",
-      "lastUpdate": "2025-11-29T00:24:08+07:00"
+      "lastUpdate": "2025-11-30T00:22:47+07:00"
     },
     "6.1": {
       "pendingViews": 0,
@@ -66,10 +66,10 @@
       "lastUpdate": "2025-11-29T00:24:08+07:00"
     },
     "6.2": {
-      "pendingViews": 7,
+      "pendingViews": 0,
       "lastIncrement": "2025-11-29T13:53:20.831Z",
-      "lastUpdate": "2025-11-29T00:24:08+07:00"
+      "lastUpdate": "2025-11-30T00:22:47+07:00"
     }
   },
-  "lastUpdated": "2025-11-29T00:24:08+07:00"
+  "lastUpdated": "2025-11-30T00:22:47+07:00"
 }
