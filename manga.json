@@ -26,6 +26,36 @@
     "lockedChapters": []
   },
   "chapters": {
+    "0": {
+      "title": "Chapter 0",
+      "chapter": 0,
+      "folder": "0",
+      "uploadDate": "2025-11-27T23:07:58+07:00",
+      "totalPages": 8,
+      "pages": 8,
+      "locked": false,
+      "views": 1
+    },
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2025-11-27T23:07:58+07:00",
+      "totalPages": 55,
+      "pages": 55,
+      "locked": false,
+      "views": 3
+    },
+    "1.5": {
+      "title": "Chapter 1.5",
+      "chapter": 1.5,
+      "folder": "1.5",
+      "uploadDate": "2025-11-27T23:07:58+07:00",
+      "totalPages": 8,
+      "pages": 8,
+      "locked": false,
+      "views": 0
+    },
     "2.1": {
       "title": "Chapter 2.1",
       "chapter": 2.1,
@@ -147,6 +177,6 @@
       "views": 144
     }
   },
-  "lastUpdated": "2025-12-06T16:55:05+07:00",
+  "lastUpdated": "2025-12-06T17:04:32+07:00",
   "lastChapterUpdate": "2025-12-02T11:13:37+07:00"
 }
