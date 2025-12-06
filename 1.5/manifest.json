@@ -3,13 +3,15 @@
   "upload_date": "2025-12-06 17:01:58",
   "total_pages": 8,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image07.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/1.5/Image08.webp"
-  ]
+    "b6a62c6b81feef08a71122c7d6c8f5f9:b1180c9b12c4f9c7f9d84680331f3a5702552b4831548770ae8f7179f2c564105369d2e5db14fe70c484402b6244137da1962ad5a2e4672269a543678ad074e9",
+    "b892f2f212e873adc6e283462d0d424f:4b4232f57bb907d855737faa440f07b913706be492f4e7e6ca629c358f1c5ba23d30a06dce91fd4a0e7057e445b44f34dc26c4e75d1b7287f693996b2c2d9648",
+    "84f1c25abae1279c30d864d772379a41:b0027ea6399206c20b5ca4bd2d71d3e4a39f0b79ecb421e6753e1e5e507e967f022bc5389bc561efe2b28f4379ec720932f52c012df4b9fea2866ad9b80a5276",
+    "bb0169e9eff65fe07f1a202551345442:73c6c5429b40bb459c8a23d4932d6d6134a9e9c88810407c5b3749991d782f67da62e36c17d04262e7fc5a42c9764e0b39bb7c6f4d598f7d336c04e88688d591",
+    "cf85aeec84b790eef8a55f8c801289c5:b5b5958552237c009fb4e9bd789a546544755a9f05d3448a82705623f61b92cd63f0efae41d9eb99bdd9b0a04bac17ea5d9485cd4a5b2ba30d11f2a936c100b3",
+    "148bfbeeff9370851004edbca25743fb:1f1ae7a9f22f306ceb305954a2b0db6580da96698b03d517bf2579827257a454edc460cce0ff0292c187a7eee946bdbf641f787c6439759b630ca296a7160756",
+    "515c1fb9bfc53334c4bac3de2c551610:6494c9d5ffa9a817cc31351f5f0e01a03c0fd5624e256c0ce7aa2f97c0994ff74a8641e49651b4b51f72eea7aba3845d04952c79cc7f6cf79511c33d3c5b82f6",
+    "1d089c0ba66cf9f680c9ca0b2b9d3e67:8ac884e7e06f5f35327768efb7c96d6cde49684938b473137755fbe874a745eda29595b7d1fadac360f6b7eb40748e0b014b3080ebcc59f4654ebd803e3bdb98"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
