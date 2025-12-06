@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "Ongoing",
-    "views": 255,
+    "views": 270,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -26,36 +26,6 @@
     "lockedChapters": []
   },
   "chapters": {
-    "0": {
-      "title": "Chapter 0",
-      "chapter": 0,
-      "folder": "0",
-      "uploadDate": "2025-11-27T23:07:58+07:00",
-      "totalPages": 16,
-      "pages": 16,
-      "locked": false,
-      "views": 15
-    },
-    "1": {
-      "title": "Chapter 1",
-      "chapter": 1,
-      "folder": "1",
-      "uploadDate": "2025-11-27T23:07:58+07:00",
-      "totalPages": 110,
-      "pages": 110,
-      "locked": false,
-      "views": 9
-    },
-    "1.5": {
-      "title": "Chapter 1.5",
-      "chapter": 1.5,
-      "folder": "1.5",
-      "uploadDate": "2025-11-27T23:07:58+07:00",
-      "totalPages": 16,
-      "pages": 16,
-      "locked": false,
-      "views": 2
-    },
     "2.1": {
       "title": "Chapter 2.1",
       "chapter": 2.1,
@@ -84,7 +54,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 3
+      "views": 4
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -94,7 +64,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -104,7 +74,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 4
+      "views": 9
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -114,7 +84,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 3
+      "views": 5
     },
     "4.5": {
       "title": "Chapter 4.5",
@@ -124,7 +94,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 4
+      "views": 6
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -134,7 +104,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 4
+      "views": 6
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -144,7 +114,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 6
+      "views": 8
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -154,7 +124,7 @@
       "totalPages": 11,
       "pages": 11,
       "locked": false,
-      "views": 14
+      "views": 16
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -164,7 +134,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 52
+      "views": 55
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -174,9 +144,9 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 135
+      "views": 144
     }
   },
-  "lastUpdated": "2025-12-06T00:25:53+07:00",
+  "lastUpdated": "2025-12-06T16:55:05+07:00",
   "lastChapterUpdate": "2025-12-02T11:13:37+07:00"
 }
