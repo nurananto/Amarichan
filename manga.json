@@ -14,8 +14,8 @@
       "School Life",
       "Slice of Life"
     ],
-    "status": "Ongoing",
-    "views": 354,
+    "status": "ONGOING",
+    "views": 360,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -23,7 +23,8 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/Amarichan/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": []
+    "lockedChapters": [],
+    "type": "manga"
   },
   "chapters": {
     "0": {
@@ -174,9 +175,9 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 179
+      "views": 181
     }
   },
-  "lastUpdated": "2025-12-12T00:34:13+07:00",
+  "lastUpdated": "2025-12-12T14:01:17+07:00",
   "lastChapterUpdate": "2025-12-02T11:13:37+07:00"
 }
