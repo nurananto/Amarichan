@@ -3,13 +3,15 @@
   "upload_date": "2025-12-06 17:01:58",
   "total_pages": 8,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image04.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image05.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image06.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image07.webp",
-    "https://cdn.nuranantoscans.my.id/Amarichan/0/Image08.webp"
-  ]
+    "892f86e5db5373edf8c531f6a28c768d:f306087e7c304928059a2cfd84ddaee7ebf0d537ff9fef469f54174aedcf0c3e26f12229ab54e63ab3f60fad8cb218e20ce43df5417005b469f0c4e590b26b97",
+    "e8a32b6d6d734f5e100be3bcdea21059:3132040c9ad7079cacdce769a6d38140f22a36544c6047f7a173080db751daca058870bc7202a77e88ffbf57daf4d1c2636d34d5c4e1db2d52147a4e5fc8c88b",
+    "2aded0235c49b40d6f2e3e5f3adbb695:826679d79d9dca3748f8dc222bea8ecacd8c026ef0ec5032ccad9acecdff71c0c9bd09627a74b81f241186258b88c00c8935243cb869cc979a35e7f7d513b1b9",
+    "d8f72c8e3ac48dfc4982584073e3f0c9:fbda0fe8108c70e21c89cfe1450fec8f48f8f009ca895bb74884acd5f1e2d7103a7ea7a58b785a6c336f5f5a7d03cdf3dfbfed4768b7c28985a02b34c079e223",
+    "09210543d0c7df0246f9d87377abe7a1:5662892e991f03f349a4bfbb630e212bbc80fa47358829736aad496e77f65dbe68e390f74ff8118cdc4eea540abbba64d962e2676feca015404ff56f56436265",
+    "957dee6352edc7d365f96380e59aa89a:284c8d95c4d3fac76372ad17f3cb2abccae68b181756f1a0f5aac46acc04e2f3d7dd4c932279270897a89348261c6eb0e6163f2e1c4a1aaaad2242d77d45ba21",
+    "a01657e06fa6047c5166a199e4bb913f:51b9cfd3e4f5f359efb7e8ad48e954411ae5e16953d516677b1a8596b947e9f918a41c24f5ca4fe089067589a153436db28e4193eba9d6c10da389d4bf66038d",
+    "f71b37f45780ca8cb373417ed60eb97a:93aef246c8aae2dc960efd49d7768c18195998a679854c20fab757aac40e9dc829f2b82ae1d145c2f694503a035fc71492e4f30d6af942e2c9ca57c7a343a23d"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
