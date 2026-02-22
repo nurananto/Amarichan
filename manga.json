@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 1313,
+    "views": 1334,
     "links": {
       "mangadex": "https://mangadex.org/title/624d6ceb-768d-40a7-8412-84e083afbdb1/kanojo-ni-shitai-joshi-ichii-no-tonari-de-mitsuketa-amari-chan",
       "raw": "https://comic-walker.com/detail/KC_006262_S"
@@ -35,7 +35,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 115
+      "views": 116
     },
     "1": {
       "title": "Chapter 1",
@@ -45,7 +45,7 @@
       "totalPages": 55,
       "pages": 55,
       "locked": false,
-      "views": 114
+      "views": 115
     },
     "1.5": {
       "title": "Chapter 1.5",
@@ -55,7 +55,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 62
+      "views": 63
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -65,7 +65,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 64
+      "views": 65
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -75,7 +75,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 69
+      "views": 70
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -175,7 +175,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 323
+      "views": 324
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -185,7 +185,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 306
+      "views": 308
     },
     "7.5": {
       "title": "Chapter 7.5",
@@ -195,7 +195,7 @@
       "totalPages": 6,
       "pages": 6,
       "locked": false,
-      "views": 195
+      "views": 198
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -205,9 +205,9 @@
       "totalPages": 9,
       "pages": 9,
       "locked": false,
-      "views": 113
+      "views": 118
     }
   },
-  "lastUpdated": "2026-02-22T17:00:35.481Z",
+  "lastUpdated": "2026-02-22T20:37:03.213Z",
   "lastChapterUpdate": "2026-02-11T18:12:49+07:00"
 }
